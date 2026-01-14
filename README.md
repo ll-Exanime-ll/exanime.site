@@ -1,3 +1,3 @@
 # exanime.site
 
-![qr-code](images/qr-code.png)
+<img src="images/qr-code.png" alt="qr-code" width="200">
