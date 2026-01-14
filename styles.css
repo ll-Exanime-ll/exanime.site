@@ -375,7 +375,6 @@ footer {
     }
 }
 
-/* Make ranks display as squares in a horizontal row */
 .ranks-grid {
     display: flex;
     flex-direction: row;
@@ -395,7 +394,7 @@ footer {
     border-radius: 8px;
     color: white;
     text-align: center;
-    position: relative; /* keep for player tag positioning if needed */
+    position: relative;
 }
 
 .rank-info {
@@ -427,3 +426,4 @@ footer {
     font-size: 0.9rem;
     font-weight: normal;
 }
+
